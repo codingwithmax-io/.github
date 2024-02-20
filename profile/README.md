@@ -1,2 +1,2 @@
 # Coding With Max
-![Coding with Max](max-coding.png)
+![Coding with Max](https://ibb.co/MBnN5mb)
